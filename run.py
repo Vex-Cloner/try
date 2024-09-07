@@ -1,0 +1,2 @@
+import bik
+bik.menu()
